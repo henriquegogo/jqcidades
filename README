@@ -1,6 +1,6 @@
-Plugin jQuery que alimenta os estados e as cidades do Brasil.
+<h1>Plugin jQuery que alimenta os estados e as cidades do Brasil.</h1>
 
-Para utilizar:
+<h2>Para utilizar:</h2>
 
 <script src='http://code.jquery.com/jquery-1.4.4.min.js' type="text/javascript" charset="utf-8"></script>
 <script src="jqcidades.js"></script>
